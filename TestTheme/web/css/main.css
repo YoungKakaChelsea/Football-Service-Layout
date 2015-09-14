@@ -1,0 +1,19 @@
+ 
+
+ .center {
+   	margin: auto;
+    width: 100%;
+	align:center;
+}
+ .btn-center
+            {
+			width: 100%;
+			height: 60px;
+            border: none;
+			background:none;
+            }
+			
+.img-google {
+	width: 100%;
+			height: 60px;
+}
